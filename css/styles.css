@@ -1,0 +1,27 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  display: inline;
+  font-family: 'Modak', cursive;
+  font-weight: normal;
+  font-size: 25vw;
+  text-align: center;
+  margin: 0;
+
+  /* background-color: blue; */
+  background-image: url("../img/horizon.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 27.5vw;
+}
