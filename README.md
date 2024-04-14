@@ -13,4 +13,4 @@ img {
 }
 ```
 
-See the demo [here](https://dciforks.github.io/absolute-horizon/).
+See the demo [here](https://funforks.github.io/absolute-horizon/).
